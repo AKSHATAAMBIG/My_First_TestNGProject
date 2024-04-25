@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListUser"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.107">
+    <properties></properties>
+
+
+
+            <testcase
+                name="doBookLibrarySoapCall_Validation"
+                time="0.001"
+                classname="getuserList.GetUser">
+            </testcase>
+            <testcase
+                name="doReqresGetUserList_Validation"
+                time="2.106"
+                classname="getuserList.GetUser">
+            </testcase>
+</testsuite>

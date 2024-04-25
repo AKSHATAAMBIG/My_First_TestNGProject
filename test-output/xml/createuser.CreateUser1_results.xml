@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Create User1 Details"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.161">
+    <properties></properties>
+
+
+
+            <testcase
+                name="createNewUser"
+                time="0.668"
+                classname="createuser.CreateUser1">
+            </testcase>
+            <testcase
+                name="celsiusToFahrenheitConver"
+                time="0.493"
+                classname="createuser.CreateUser1">
+            </testcase>
+</testsuite>

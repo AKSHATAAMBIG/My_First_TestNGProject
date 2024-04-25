@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Reqres" verbose="1" >
+  <!--  <test name="ListUser" >
+        <classes>
+            <class name="getuserList.GetUser" />
+        </classes>
+    </test>
+
+    <test name="Validate User Details" >
+
+        <classes>
+            <class name="createuser.ValidateGetUser" />
+        </classes>
+    </test>-->
+
+    <test name="WebAPI" >
+
+        <classes>
+            <class name="getuserList.Workshop" />
+        </classes>
+    </test>
+
+
+</suite>
